@@ -6,6 +6,7 @@
 - 💬 Ask me about SQL, NoSQL, Web apps, Mobile Apps, Azure services.
 - 📫 How to reach me: [Social Card No - ST101010101](https://socialcards.net/#download)
 - 😄 Pronouns: he/him
+<img src="https://github.com/tyagit/sahil-tyagi/blob/master/st_card.jpeg" width="300" height="450">
 
 <!--
 **tyagit/tyagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
