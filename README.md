@@ -1,6 +1,6 @@
 # Hello World 👋
 
-<img src="https://github.com/tyagit/sahil-tyagi/blob/master/st_card.jpeg" width="280" height="440">
+<img src="https://github.com/tyagit/sahil-tyagi/blob/master/st_card.jpeg" width="280" height="440" align="right">
 
 ## :book: Ａｂ♢ｕｔ ＭΣ
 
