@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World 👋
+
+- 🔭 I’m currently working on building a new generation identity card - [Social Card](https://socialcards.net/)
+- 🌱 I’m currently learning about world's most misunderstood programming language - JavaScript.
+- 👯 I’m looking to collaborate on ideas that helps [social animals](https://www.goodreads.com/quotes/183896-man-is-by-nature-a-social-animal-an-individual-who) with their problems.
+- 💬 Ask me about SQL, NoSQL, Web apps, Mobile Apps, Azure services.
+- 📫 How to reach me: [Social Card No - ST101010101](https://socialcards.net/#download)
+- 😄 Pronouns: he/him
 
 <!--
 **tyagit/tyagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
