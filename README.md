@@ -14,10 +14,10 @@ const Info = {
 
 var AboutMe = {
   occupation: 'Software Developer',
-  workingOn: 'Building a new generation identity card - Social Card',
+  workingOn: 'A new generation identity card - Social Card',
   learning: "World's most misunderstood programming language - JavaScript",
   askMeAbout: ['SQL', 'NoSQL', 'Web Apps', 'Mobile Apps', 'Azure Services'],
-  socialProfiles: 'ST100003123 - Social Card No'
+  socialProfile: 'ST100003123 - Social Card No'
 }
 ```
 
