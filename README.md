@@ -1,24 +1,29 @@
-### Hello World 👋
+# Hello World 👋
 
-- 🔭 I’m currently working on building a new generation identity card - [Social Card](https://socialcards.net/)
-- 🌱 I’m currently learning about world's most misunderstood programming language - JavaScript.
-- 👯 I’m looking to collaborate on ideas that helps [social animals](https://www.goodreads.com/quotes/183896-man-is-by-nature-a-social-animal-an-individual-who) with their problems.
-- 💬 Ask me about SQL, NoSQL, Web apps, Mobile Apps, Azure services.
-- 📫 How to reach me: [Social Card No - ST100003123](https://socialcards.net/#download)
-- 😄 Pronouns: he/him
-<img src="https://github.com/tyagit/sahil-tyagi/blob/master/st_card.jpeg" width="300" height="450">
+<img src="https://github.com/tyagit/sahil-tyagi/blob/master/st_card.jpeg" width="280" height="440">
 
-<!--
-**tyagit/tyagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: Ａｂ♢ｕｔ ＭΣ
 
-Here are some ideas to get you started:
+```jsx
+const Info = {
+  name: 'Sahil Tyagi',
+  nationality: 'Indian',
+  sex: 'Male',
+  socialCardNo: 'ST100003123'
+ }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var AboutMe = {
+  occupation: 'Software Developer',
+  workingOn: 'Building a new generation identity card - Social Card',
+  learning: "World's most misunderstood programming language - JavaScript",
+  askMeAbout: ['SQL', 'NoSQL', 'Web Apps', 'Mobile Apps', 'Azure Services'],
+  socialProfiles: 'ST100003123 - Social Card No'
+}
+```
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+
+Trying to build something that helps [social animals](https://www.goodreads.com/quotes/183896-man-is-by-nature-a-social-animal-an-individual-who) with their problems - [SocialCards](https://socialcards.net/#download)
+
+## 📫 𝙵𝚘𝚛 𝚊 𝚚𝚞𝚒𝚌𝚔 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎
+Reach out to me at `sahilt3 at gmail dot com`
