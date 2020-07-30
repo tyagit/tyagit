@@ -38,6 +38,8 @@ var AboutMe = {
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/45760833/88959589-8704e000-d2a2-11ea-8dad-0a5607865b4c.png" />
 <img align="left" alt="MS SQL" width="26px" height="26px" src="https://user-images.githubusercontent.com/45760833/88959769-d1865c80-d2a2-11ea-9a03-3143ff1d16a1.png" />
 <img align="left" alt="Jupyter Notebook" width="40px" height="30px" src="https://user-images.githubusercontent.com/45760833/88960166-67ba8280-d2a3-11ea-8a70-cf2622b6bf58.png" />
+<img align="left" alt="Azure" width="26px" src="https://user-images.githubusercontent.com/45760833/88965211-ba4b6d00-d2aa-11ea-8f53-0c95b2de2d64.png" />
+<img align="left" alt="MS Teams" width="26px" src="https://user-images.githubusercontent.com/45760833/88965215-bb7c9a00-d2aa-11ea-9d78-a9cde73c2801.png" />
 
 <br />
 
